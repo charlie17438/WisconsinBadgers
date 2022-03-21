@@ -9,14 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Data Science & Analytics Portfolio
+This repository contains projects and visualizations created from the Data Science & Analytics program with Wisconsin Madison.
 
-# Header 1
-## Header 2
-### Header 3
+## SQL
 
-- Bulleted
-- List
+## Statistics
+
+## Visual Communications
+
 
 1. Numbered
 2. List
